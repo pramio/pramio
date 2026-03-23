@@ -89,7 +89,14 @@
 
 <br>
 
-<h2 align="center">🌐 Let's Connect</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=%F0%9F%8C%90+Let's+Connect!;%F0%9F%93%A7+Drop+Me+A+Message!;%F0%9F%9A%80+Open+For+Opportunities!" alt="Let's Connect" />
+</h2>
+
+<p align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f447/512.gif" alt="👇" width="40" height="40">
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/palash-ch-sarkar-485697247/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -98,14 +105,26 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://palash-chandra-portfolio-1.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-7000FF?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PalashSarkar&label=PROFILE+VIEWS&color=00F0FF&style=flat-square&labelColor=0D1117" alt="Profile views"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="Neon Divider"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2000&color=8A2BE2&center=true&vCenter=true&width=300&lines=Profile+Visitors+%F0%9F%91%80;Thank+You+For+Visiting!" alt="Profile Visitors" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PalashSarkar&label=VIEWS&color=00F0FF&style=for-the-badge&labelColor=0D1117" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00F0FF,8A2BE2,00F0FF&height=120&section=footer&animation=twinkling" alt="Footer" />
 </p>
 
 <p align="center">
